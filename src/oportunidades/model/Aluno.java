@@ -1,6 +1,6 @@
 package oportunidades.model;
 
-public class Aluno {
+public class Aluno extends Usuario {
 	
 	private Usuario usuario;
 	private String semestre;
